@@ -20,3 +20,7 @@ Here I changed the Vgs to 2.5V and plotted for different Vgs value with 0.5 incr
 
 - The below plot shows the gm(dId/dVgs) and Ro inverse of (dId/dVgs).
   ![image](https://github.com/user-attachments/assets/21d383d7-663c-45fc-9f15-00db9f1ec75a)![image](https://github.com/user-attachments/assets/0b4c533a-15b4-4b67-a63a-97d8582840f2)
+
+# 2. DC analysis of PMOS
+Similarly, for PMOS, I plotted the same characteristics as for NMOS and found that to achieve the same Ids current, the aspect ratio (W/L) for PMOS needs to be 2.5 times the (W/L) of NMOS. This is an important consideration for further CMOS inverter design.
+
