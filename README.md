@@ -16,7 +16,7 @@ Here from this graph we can see threshold voltage is between 0.6V to 0.7V for di
 - The plot below shows the DC sweep of Vds vs. Id for different value of Vgs.
 - ![image](https://github.com/user-attachments/assets/bb1c68f2-5144-4131-b5f0-697bc24b4f9c)
 Here I changed the Vgs to 2.5V and plotted for different Vgs value with 0.5 increment
-![image](https://github.com/user-attachments/assets/8f5e8c61-a161-4fe6-b730-5174b7642b79)
+![image](https://github.com/user-attachments/assets/8f5e8c61-a161-4fe6-b730-5174b7642b79)![image](https://github.com/user-attachments/assets/0b4c533a-15b4-4b67-a63a-97d8582840f2)
 
 - The below plot shows the gm(dId/dVgs) and Ro inverse of (dId/dVgs).
   ![image](https://github.com/user-attachments/assets/21d383d7-663c-45fc-9f15-00db9f1ec75a)
