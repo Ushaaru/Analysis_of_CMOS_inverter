@@ -65,5 +65,7 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
   Using gain plot we found out the parameters of Noise margin NMl=VIL-VOL, NMH=VOH-VIH
   we get NML=0.615 NMH=0.643 they are almost equal because we took almost closest to 0.9.
   
-
+- 3.2 CMOS Inverter Transient DC Analysis
+  Let's see the transient simulation of the schematic to calculate propagation delay of the inverter.
+  
   
