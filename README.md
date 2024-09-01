@@ -24,4 +24,6 @@ Here I changed the Vgs to 2.5V and plotted for different Vgs value with 0.5 incr
 # 2. DC analysis of PMOS
 Similarly, for PMOS, I plotted the same characteristics as for NMOS and found that to achieve the same Ids current, the aspect ratio (W/L) for PMOS needs to be 2.5 times the (W/L) of NMOS. This is an important consideration for further CMOS inverter design.
 ![image](https://github.com/user-attachments/assets/e8f8765f-c135-4da8-9800-ebf9d7a2c132)
+I got 500.9 µA for NMOS with Vgs = 1.8V and Vds = 2.2V.
 ![image](https://github.com/user-attachments/assets/caed9e1b-0a04-4e73-b9a1-7a2329c2561a)
+Similarly for pmos 503.47uA with Vgs=1.8V and Vds=2.2V.
