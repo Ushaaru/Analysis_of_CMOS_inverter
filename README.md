@@ -66,7 +66,8 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
   we get NML=0.615 NMH=0.643 they are almost equal because we took almost closest to 0.9.
   
 - 3.2 CMOS Inverter Transient DC Analysis
-  Let's see the transient simulation of the schematic to calculate propagation delay(tp) of the inverter.
+- Let's see the transient simulation of the schematic to calculate propagation delay(tp) of the inverter.
   Here I calculated High to low propagation delay(tphl) and low to high propogation delay(tplh) to calculate tp which is given by tp=(tphl+tplh)/2.
-  I got tpHL=27.57ps, tpLH=31.93ps and tp=29.75ps
+  I got tpHL=27.57ps, tpLH=31.93ps and tp=29.75ps (Propagation delay depends upon the input)
   ![image](https://github.com/user-attachments/assets/9882090c-3f5b-4051-82d1-11728431957d)
+
