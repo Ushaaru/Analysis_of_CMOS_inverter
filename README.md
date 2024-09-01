@@ -27,3 +27,11 @@ Similarly, for PMOS, I plotted the same characteristics as for NMOS and found th
 I got 500.9 µA for NMOS with Vgs = 1.8V and Vds = 2.2V.
 ![image](https://github.com/user-attachments/assets/caed9e1b-0a04-4e73-b9a1-7a2329c2561a)
 Similarly for pmos 503.47uA with Vgs=1.8V and Vds=2.2V.
+
+# 3. CMOS Inverter Design and Analysis
+- Since we know that neither NMOS nor PMOS can drive both high and low values completely, we use a CMOS combination of PMOS and NMOS because PMOS is strong at driving a '1', and NMOS is strong at driving a '0'.
+Let's look into the connection of a CMOS (Complementary Metal-Oxide-Semiconductor) inverter.
+PMOS is connected between VDD and Vo because it is strong at driving a '1'.
+NMOS is connected between Vo and GND because it is strong at driving a '0'.
+From this, we can conclude that PMOS is preferred for the pull-up network (PUN), and NMOS is preferred for the pull-down network (PDN).
+
