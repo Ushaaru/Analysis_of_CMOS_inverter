@@ -36,4 +36,19 @@ Let's look into the connection of a CMOS (Complementary Metal-Oxide-Semiconducto
 - From this, we can conclude that PMOS is preferred for the pull-up network (PUN), and NMOS is preferred for the pull-down network (PDN).
 
 - 3.1 CMOS Inverter schematic DC Analysis
-
+![image](https://github.com/user-attachments/assets/2a35092c-504d-4e87-86a1-fcec9323d8c9)
+![image](https://github.com/user-attachments/assets/14c871f5-b5ba-46c5-a0aa-afc1e8fb778a)
+Fig: Schmatic design of the CMOS inverter
+Intially I have taken aspect ratio of both pmos and nmos same we can see the output not having good noise margin.
+- What is Noise Margin?
+- The amount of noise the CMOS can reject without effecting the output is defined as Noise Margin.
+- Some of the terminology related to Noise Margin.
+- VOH-Maximum output voltage when (logic='1').
+- VOL-Minimum ouput voltage when (logic='0').
+- VIL-Minimum input voltage
+- VIH-Maximum input voltage
+- Vm/Vth-Threshold voltage
+  The noise margin of an inverter is defined by Noise Margin Low(NML) and Noise Margin High(NMH).
+  NML=VIL-VOL
+  NMH=VOH-VIH
+  Ideally VIL=VIH=VDD/2=NML=NMH
