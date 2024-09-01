@@ -19,4 +19,4 @@ Here I changed the Vgs to 2.5V and plotted for different Vgs value with 0.5 incr
 ![image](https://github.com/user-attachments/assets/8f5e8c61-a161-4fe6-b730-5174b7642b79)
 
 - The below plot shows the gm(dId/dVgs) and Ro inverse of (dId/dVgs).
-  
+  ![image](https://github.com/user-attachments/assets/21d383d7-663c-45fc-9f15-00db9f1ec75a)
