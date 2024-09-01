@@ -61,5 +61,6 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
   ![image](https://github.com/user-attachments/assets/33537bc3-7631-4f22-aaaf-fde34b05e6a1)
 - Let's plot the gain of the CMOS inverter and analyze the NM parameters.
 - We have calculated VIL,VOH,VIH and VOL
-- 
+- ![image](https://github.com/user-attachments/assets/8ec575c9-0b7c-4228-9f0e-386f56165bfa)
+
   
