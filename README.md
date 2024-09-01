@@ -11,3 +11,6 @@ This project I started is to analyze the basic characteristics of NMOS, PMOS, an
   
 - The plot below shows the DC sweep of Vgs vs. Id for different values of Vds.
   ![image](https://github.com/user-attachments/assets/864d5374-093a-417a-bbc5-d9f07f891985)
+Here from this graph we can see threshold voltage is between 0.6V to 0.7V for different value of Vds.
+
+-The plot below shows the DC sweep of Vds vs. Id for different value of Vgs.
