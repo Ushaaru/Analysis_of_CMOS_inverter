@@ -35,3 +35,5 @@ Let's look into the connection of a CMOS (Complementary Metal-Oxide-Semiconducto
 - NMOS is connected between Vo and GND because it is strong at driving a '0'.
 - From this, we can conclude that PMOS is preferred for the pull-up network (PUN), and NMOS is preferred for the pull-down network (PDN).
 
+- 3.1 CMOS Inverter schematic DC Analysis
+
