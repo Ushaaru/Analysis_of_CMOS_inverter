@@ -62,5 +62,8 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
 - Let's plot the gain of the CMOS inverter and analyze the NM parameters.
 - We have calculated VIL,VOH,VIH and VOL
 - ![image](https://github.com/user-attachments/assets/8ec575c9-0b7c-4228-9f0e-386f56165bfa)
+  Using gain plot we found out the parameters of Noise margin NMl=VIL-VOL, NMH=VOH-VIH
+  we get NML=0.615 NMH=0.643 they are almost equal because we took almost closest to 0.9.
+  
 
   
