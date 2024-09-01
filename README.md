@@ -39,6 +39,7 @@ Let's look into the connection of a CMOS (Complementary Metal-Oxide-Semiconducto
 ![image](https://github.com/user-attachments/assets/2a35092c-504d-4e87-86a1-fcec9323d8c9)
 ![image](https://github.com/user-attachments/assets/14c871f5-b5ba-46c5-a0aa-afc1e8fb778a)
 Fig: Schmatic design of the CMOS inverter
+- Let's plot the voltage transfer characteristics(VTC) of CMOS inverter.
 Intially I have taken aspect ratio of both pmos and nmos same we can see the output not having good noise margin.
 - What is Noise Margin?
 - The amount of noise the CMOS can reject without effecting the output is defined as Noise Margin.
