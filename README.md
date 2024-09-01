@@ -48,15 +48,15 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
 - VIL-Minimum input voltage
 - VIH-Maximum input voltage
 - Vm/Vth-Threshold voltage
-  The noise margin of an inverter is defined by Noise Margin Low(NML) and Noise Margin High(NMH).
+  - The noise margin of an inverter is defined by Noise Margin Low(NML) and Noise Margin High(NMH).
   NML=VIL-VOL
   NMH=VOH-VIH
   Ideally Vth/Vm should be VDD/2
   So, VDD=1.8V we should get 0.9V
   ![image](https://github.com/user-attachments/assets/97e69423-f0e7-49e4-8c8e-b57c86c96887)
-  Here we got 0.83V Let's try to improve the NM.
-  From the previous PMOS and NMOS characteristics, I calculated the aspect ratio. I set the PMOS
+  - Here we got 0.83V Let's try to improve the NM.
+  - From the previous PMOS and NMOS characteristics, I calculated the aspect ratio. I set the PMOS
   aspect ratio to 2.5:1, which resulted in a maximum Vm of 0.88V.
   ![image](https://github.com/user-attachments/assets/33537bc3-7631-4f22-aaaf-fde34b05e6a1)
-  - 
+- 
   
