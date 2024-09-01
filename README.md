@@ -38,17 +38,17 @@ Let's look into the connection of a CMOS (Complementary Metal-Oxide-Semiconducto
 - 3.1 CMOS Inverter schematic DC Analysis
 ![image](https://github.com/user-attachments/assets/2a35092c-504d-4e87-86a1-fcec9323d8c9)
 ![image](https://github.com/user-attachments/assets/14c871f5-b5ba-46c5-a0aa-afc1e8fb778a)
-Fig: Schmatic design of the CMOS inverter
+- Fig: Schmatic design of the CMOS inverter
 - Let's plot the voltage transfer characteristics(VTC) of CMOS inverter.
 Intially I have taken aspect ratio of both pmos and nmos same we can see the output not having good noise margin.
 - What is Noise Margin?
-- The amount of noise the CMOS can reject without effecting the output is defined as Noise Margin.
-- Some of the terminology related to Noise Margin.
-- VOH-Maximum output voltage when (logic='1').
-- VOL-Minimum ouput voltage when (logic='0').
-- VIL-Minimum input voltage
-- VIH-Maximum input voltage
-- Vm/Vth-Threshold voltage
+  The amount of noise the CMOS can reject without effecting the output is defined as Noise Margin.
+  Some of the terminology related to Noise Margin.
+  VOH-Maximum output voltage when (logic='1').
+  VOL-Minimum ouput voltage when (logic='0').
+  VIL-Minimum input voltage
+  VIH-Maximum input voltage
+  Vm/Vth-Threshold voltage
   - The noise margin of an inverter is defined by Noise Margin Low(NML) and Noise Margin High(NMH).
   NML=VIL-VOL
   NMH=VOH-VIH
@@ -59,5 +59,7 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
   - From the previous PMOS and NMOS characteristics, I calculated the aspect ratio. I set the PMOS
   aspect ratio to 2.5:1, which resulted in a maximum Vm of 0.88V.
   ![image](https://github.com/user-attachments/assets/33537bc3-7631-4f22-aaaf-fde34b05e6a1)
+- Let's plot the gain of the CMOS inverter and analyze the NM parameters.
+- We have calculated VIL,VOH,VIH and VOL
 - 
   
