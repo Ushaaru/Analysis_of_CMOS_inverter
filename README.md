@@ -51,4 +51,6 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
   The noise margin of an inverter is defined by Noise Margin Low(NML) and Noise Margin High(NMH).
   NML=VIL-VOL
   NMH=VOH-VIH
-  Ideally VIL=VIH=VDD/2=NML=NMH
+  Ideally Vth/Vm should be VDD/2
+  Here VDD=1.8V we should get 0.9V
+  
