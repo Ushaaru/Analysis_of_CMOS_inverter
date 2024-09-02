@@ -1,5 +1,5 @@
 # Analysis_of_CMOS_inverter
-This project I started is to analyze the basic characteristics of NMOS, PMOS, and CMOS inverter to practically understand my theoretical knowledge.
+This project I started is to analyze the basic characteristics of NMOS, PMOS, and CMOS inverter to practically understand my theoretical knowledge. I would like to credit https://nutchanonj.github.io/ and @whyRD channel helped me to do this project.
 
 # 1. DC analysis of NMOS
 "Firstly, I simulated the DC characteristics of NMOS using the following tools:
