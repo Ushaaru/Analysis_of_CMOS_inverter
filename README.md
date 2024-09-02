@@ -70,4 +70,4 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
   Here I calculated High to low propagation delay(tphl) and low to high propogation delay(tplh) to calculate tp which is given by tp=(tphl+tplh)/2.
   I got tpHL=27.57ps, tpLH=31.93ps and tp=29.75ps (Propagation delay depends upon the input)
   ![image](https://github.com/user-attachments/assets/9882090c-3f5b-4051-82d1-11728431957d)
-
+- Let's calculate the rise time. It is given by the equation tr=t90-t10 where t90 is the time taken for the output voltage vout rise to 90% of its final value, and t10 is the time taken for it to rise to 10%.
