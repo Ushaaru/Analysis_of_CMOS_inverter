@@ -84,3 +84,9 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
 - For cap=10fF we got power dissipation=-2.03uF we can see that as we decrease load capacitance power dissipation decreases.
 ![image](https://github.com/user-attachments/assets/abd20722-a6e0-4936-9450-9c483170881f)
 ![image](https://github.com/user-attachments/assets/2b20e5a5-d04f-419c-a38f-07cc676a79ea)
+
+# 4. CMOS Inverter layout 
+- I have designed the inverter layout level using sky130 pdk documentation in magic and simulated the layout spice model, I tried to design a aspect ratio of 2:1 and acheived almost
+- Here is the simulation of layput level
+  
+  
