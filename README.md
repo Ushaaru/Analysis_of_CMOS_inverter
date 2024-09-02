@@ -74,3 +74,7 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
 ![image](https://github.com/user-attachments/assets/c84f7c74-75e7-40a1-b950-54fbce5334ef)
 - The above calculated values are for unloaded external capacitor. Now let's try to improve the tr by chnanging the aspect ratio of nmos and pmos, when I changed the aspect ratio 4:2(ppmos:nmos) I got a increased rise time of 34.60ps from previous where I had aspect ratio 2.5:1, I got 34.85ps.
 - Similarly I calculated fall time I got for 4:2 ratio 30.89ps and for 2:5:1 ratio 31.53ps. I see no much changes lets try another method decreasing the supply power to 1V I got a improved rise time and fall time of 58.00ps and 36.51ps.
+![image](https://github.com/user-attachments/assets/59a771c2-0037-4a37-ab58-79f66cfa05f8)
+- Now I see a increased rise time and fall time when a connected a 0.01pF external capacitor where I got tr=124.2ps and tf=50.2ps this was calculated for 1:1 aspect ratio let me try decreasing capacitor value and increasing aspect ratio.
+- Now I changed the external capcitor value to 10fF and aspect ratio 4:2 I got tr=50.0ps and tf=38.1ps
+  
