@@ -79,3 +79,7 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
 - Now I changed the external capcitor value to 10fF and aspect ratio 4:2 I got tr=50.0ps and tf=38.1ps
 ![image](https://github.com/user-attachments/assets/6c6c5a13-51e9-47a4-8302-9f733afa1dfd)
 ![image](https://github.com/user-attachments/assets/d6c8d4c5-d4c7-4f99-934f-2111c824cac9)
+- Now let's calculate the power dissipation of the inverter
+- Power is given by integration of (V*I) upon time period we have got power dissipation=-16.69uW for external cap=100fF
+- For cap=10fF we got power dissipation=-2.03uF we can see that as we decrease load capacitance power dissipation decreases.
+- 
