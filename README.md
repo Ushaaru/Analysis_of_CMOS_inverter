@@ -87,6 +87,8 @@ Intially I have taken aspect ratio of both pmos and nmos same we can see the out
 
 # 4. CMOS Inverter layout 
 - I have designed the inverter layout level using sky130 pdk documentation in magic and simulated the layout spice model, I tried to design a aspect ratio of 2:1 and acheived almost
-- Here is the simulation of layput level
+- Here is the simulation of layout level.
+![image](https://github.com/user-attachments/assets/ddfd304d-0ae9-4a72-96ea-db614ee8530c)
+![image](https://github.com/user-attachments/assets/91cba10a-d29e-4dad-a281-ee16b98a98b8)
   
   
